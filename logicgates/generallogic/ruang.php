@@ -1,0 +1,3 @@
+<?php
+
+// bikin class ruang 
